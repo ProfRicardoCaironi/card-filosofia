@@ -1,0 +1,12 @@
+
+.imglogo {
+    width: 100px;
+    height: 30px;
+}
+
+img {
+    height: 200px;
+    width: 100x;
+    backface-visibility: hidden;
+    border: 2px solid gray;
+}
